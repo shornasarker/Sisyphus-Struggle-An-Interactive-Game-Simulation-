@@ -34,7 +34,7 @@ Rain effect combined with night lighting and atmosphere.
 
 🏔️ Summit Scene
 The successful completion point at the mountain summit.
-![image alt]()
+![image alt](https://github.com/shornasarker/Sisyphus-Struggle-An-Interactive-Game-Simulation-/blob/main/Summit.png?raw=true)
 
 
 ❌ Game Over Screen

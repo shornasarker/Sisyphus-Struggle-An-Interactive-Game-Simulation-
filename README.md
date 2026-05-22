@@ -2,14 +2,14 @@
 A 2D interactive game developed using OpenGL and GLUT in C, inspired by the myth of Sisyphus. The game features real-time animation, physics simulation, dynamic weather effects, and interactive gameplay where the player pushes a rock uphill while overcoming obstacles.
 
 
-🖼️ Starting Screen
+🖼️ Starting Screen:
 The initial gameplay scene where the player begins the journey.
 ![image alt](https://github.com/shornasarker/Sisyphus-Struggle-An-Interactive-Game-Simulation-/blob/main/Starting.png?raw=true)
 
 
 
 
-☀️ Sunlight Changes
+☀️ Sunlight Changes:
 Demonstrates dynamic sunlight and day–night transitions.
 ![image alt](https://github.com/shornasarker/Sisyphus-Struggle-An-Interactive-Game-Simulation-/blob/main/Sunlight%20Changes.png?raw=true)
 
@@ -17,7 +17,7 @@ Demonstrates dynamic sunlight and day–night transitions.
 
 
 
-🐦 Birds Animation
+🐦 Birds Animation:
 Animated birds flying across the sky to create a lively environment.
 ![image alt](https://github.com/shornasarker/Sisyphus-Struggle-An-Interactive-Game-Simulation-/blob/main/Birds.png?raw=true)
 
@@ -25,14 +25,14 @@ Animated birds flying across the sky to create a lively environment.
 
 
 
-🌧️ Rain in Daytime
+🌧️ Rain in Daytime:
 Real-time rain effect during daytime gameplay.
 ![image alt](https://github.com/shornasarker/Sisyphus-Struggle-An-Interactive-Game-Simulation-/blob/main/Rain%20in%20Daytime.png?raw=true)
 
 
 
 
-🌙 Night Mode
+🌙 Night Mode:
 Dynamic nighttime environment with moonlight and stars.
 ![image alt](https://github.com/shornasarker/Sisyphus-Struggle-An-Interactive-Game-Simulation-/blob/main/Night.png?raw=true)
 
@@ -40,7 +40,7 @@ Dynamic nighttime environment with moonlight and stars.
 
 
 
-🌧️ Rain in Nighttime
+🌧️ Rain in Nighttime:
 Rain effect combined with night lighting and atmosphere.
 ![image alt](https://github.com/shornasarker/Sisyphus-Struggle-An-Interactive-Game-Simulation-/blob/main/Rain%20in%20Nightime.png?raw=true)
 
@@ -48,7 +48,7 @@ Rain effect combined with night lighting and atmosphere.
 
 
 
-🏔️ Summit Scene
+🏔️ Summit Scene:
 The successful completion point at the mountain summit.
 ![image alt](https://github.com/shornasarker/Sisyphus-Struggle-An-Interactive-Game-Simulation-/blob/main/Summit.png?raw=true)
 
@@ -56,7 +56,7 @@ The successful completion point at the mountain summit.
 
 
 
-❌ Game Over Screen
+❌ Game Over Screen:
 Displayed when the player loses all lives.
 ![image alt](https://github.com/shornasarker/Sisyphus-Struggle-An-Interactive-Game-Simulation-/blob/main/Game%20Over.png?raw=true)
 
@@ -64,6 +64,6 @@ Displayed when the player loses all lives.
 
 
 
-🏁 End Point
+🏁 End Point:
 The final destination where the player completes the level.
 ![image alt](https://github.com/shornasarker/Sisyphus-Struggle-An-Interactive-Game-Simulation-/blob/main/End%20Point.png?raw=true)

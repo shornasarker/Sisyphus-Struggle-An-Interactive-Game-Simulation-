@@ -16,7 +16,7 @@ Demonstrates dynamic sunlight and day–night transitions.
 
 🐦 Birds Animation
 Animated birds flying across the sky to create a lively environment.
-![image alt]()
+![image alt](https://github.com/shornasarker/Sisyphus-Struggle-An-Interactive-Game-Simulation-/blob/main/Birds.png?raw=true)
 
 🌧️ Rain in Daytime
 Real-time rain effect during daytime gameplay.

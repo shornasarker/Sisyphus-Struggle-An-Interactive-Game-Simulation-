@@ -10,7 +10,7 @@ The initial gameplay scene where the player begins the journey.
 
 ☀️ Sunlight Changes
 Demonstrates dynamic sunlight and day–night transitions.
-![image alt]()
+![image alt](https://github.com/shornasarker/Sisyphus-Struggle-An-Interactive-Game-Simulation-/blob/main/Sunlight%20Changes.png?raw=true)
 
 
 

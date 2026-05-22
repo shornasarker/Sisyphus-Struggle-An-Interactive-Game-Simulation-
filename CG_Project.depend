@@ -1,0 +1,501 @@
+# depslib dependency file v1.0
+1773518284 source:c:\spring 2026\computer graphics\lab\draft\graphics.c
+	<GL/glut.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"constants.h"
+	"structures.h"
+	"globals.h"
+	"graphics.h"
+	"physics.h"
+
+1773518284 c:\spring 2026\computer graphics\lab\draft\constants.h
+
+1773518284 c:\spring 2026\computer graphics\lab\draft\structures.h
+
+1773518284 c:\spring 2026\computer graphics\lab\draft\globals.h
+	"structures.h"
+	"constants.h"
+
+1773518284 c:\spring 2026\computer graphics\lab\draft\graphics.h
+
+1773518284 c:\spring 2026\computer graphics\lab\draft\physics.h
+
+1773519520 source:c:\spring 2026\computer graphics\lab\draft\physics.c
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+	"constants.h"
+	"structures.h"
+	"globals.h"
+	"physics.h"
+	"graphics.h"
+
+1773518284 source:c:\spring 2026\computer graphics\lab\draft\weather.c
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	"constants.h"
+	"structures.h"
+	"globals.h"
+	"weather.h"
+
+1773518284 c:\spring 2026\computer graphics\lab\draft\weather.h
+
+1773519392 source:c:\spring 2026\computer graphics\lab\draft\main.c
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"constants.h"
+	"structures.h"
+	"globals.h"
+	"graphics.h"
+	"physics.h"
+	"weather.h"
+	"game.h"
+
+1773518284 c:\spring 2026\computer graphics\lab\draft\game.h
+
+1773566877 source:c:\spring 2026\computer graphics\lab\cg_project\graphics.c
+	<GL/glut.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"constants.h"
+	"structures.h"
+	"globals.h"
+	"graphics.h"
+	"physics.h"
+
+1773518284 c:\spring 2026\computer graphics\lab\cg_project\constants.h
+
+1773518284 c:\spring 2026\computer graphics\lab\cg_project\structures.h
+
+1773518284 c:\spring 2026\computer graphics\lab\cg_project\globals.h
+	"structures.h"
+	"constants.h"
+
+1773518284 c:\spring 2026\computer graphics\lab\cg_project\graphics.h
+
+1773518284 c:\spring 2026\computer graphics\lab\cg_project\physics.h
+
+1773564085 source:c:\spring 2026\computer graphics\lab\cg_project\main.c
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"constants.h"
+	"structures.h"
+	"globals.h"
+	"graphics.h"
+	"physics.h"
+	"weather.h"
+	"game.h"
+
+1773561931 c:\spring 2026\computer graphics\lab\cg_project\weather.h
+
+1773518284 c:\spring 2026\computer graphics\lab\cg_project\game.h
+
+1773563376 source:c:\spring 2026\computer graphics\lab\cg_project\physics.c
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+	"constants.h"
+	"structures.h"
+	"globals.h"
+	"physics.h"
+	"graphics.h"
+
+1773561931 source:c:\spring 2026\computer graphics\lab\cg_project\weather.c
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	"constants.h"
+	"structures.h"
+	"globals.h"
+	"weather.h"
+
+1775856101 source:c:\users\asus\downloads\cg_project\cg_project\graphics.c
+	<GL/glut.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	"constants.h"
+	"globals.h"
+	"structures.h"
+	"graphics.h"
+	"physics.h"
+
+1775592493 c:\users\asus\downloads\cg_project\cg_project\constants.h
+
+1775547431 c:\users\asus\downloads\cg_project\cg_project\structures.h
+
+1775492942 c:\users\asus\downloads\cg_project\cg_project\globals.h
+	"structures.h"
+	"constants.h"
+
+1775550087 c:\users\asus\downloads\cg_project\cg_project\graphics.h
+
+1775492116 c:\users\asus\downloads\cg_project\cg_project\physics.h
+
+1775855594 source:c:\users\asus\downloads\cg_project\cg_project\main.c
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"constants.h"
+	"structures.h"
+	"globals.h"
+	"graphics.h"
+	"physics.h"
+	"weather.h"
+	"game.h"
+	<windows.h>
+	<mmsystem.h>
+
+1775373853 c:\users\asus\downloads\cg_project\cg_project\weather.h
+
+1773599066 c:\users\asus\downloads\cg_project\cg_project\game.h
+
+1775855594 source:c:\users\asus\downloads\cg_project\cg_project\physics.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"physics.h"
+	"globals.h"
+	"graphics.h"
+	<windows.h>
+
+1775671035 source:c:\users\asus\downloads\cg_project\cg_project\weather.c
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	"constants.h"
+	"structures.h"
+	"globals.h"
+	"weather.h"
+
+1775856101 source:c:\users\asus\downloads\cg_project - copy\cg_project\graphics.c
+	<GL/glut.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	"constants.h"
+	"globals.h"
+	"structures.h"
+	"graphics.h"
+	"physics.h"
+
+1775592493 c:\users\asus\downloads\cg_project - copy\cg_project\constants.h
+
+1775492942 c:\users\asus\downloads\cg_project - copy\cg_project\globals.h
+	"structures.h"
+	"constants.h"
+
+1775547431 c:\users\asus\downloads\cg_project - copy\cg_project\structures.h
+
+1775550087 c:\users\asus\downloads\cg_project - copy\cg_project\graphics.h
+
+1775492116 c:\users\asus\downloads\cg_project - copy\cg_project\physics.h
+
+1775881989 source:c:\users\asus\downloads\cg_project - copy\cg_project\physics.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"physics.h"
+	"globals.h"
+	"graphics.h"
+	<windows.h>
+
+1775671035 source:c:\users\asus\downloads\cg_project - copy\cg_project\weather.c
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	"constants.h"
+	"structures.h"
+	"globals.h"
+	"weather.h"
+
+1775373853 c:\users\asus\downloads\cg_project - copy\cg_project\weather.h
+
+1775882127 source:c:\users\asus\downloads\cg_project - copy\cg_project\main.c
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"constants.h"
+	"structures.h"
+	"globals.h"
+	"graphics.h"
+	"physics.h"
+	"weather.h"
+	"game.h"
+	<windows.h>
+	<mmsystem.h>
+
+1773599066 c:\users\asus\downloads\cg_project - copy\cg_project\game.h
+
+1775906136 source:e:\spring-26 (the last dance)\computer graphics\priya_cg_updated_p\cg_project - copy\cg_project\graphics.c
+	<GL/glut.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	"constants.h"
+	"globals.h"
+	"structures.h"
+	"graphics.h"
+	"physics.h"
+
+1775884448 e:\spring-26 (the last dance)\computer graphics\priya_cg_updated_p\cg_project - copy\cg_project\constants.h
+
+1775884448 e:\spring-26 (the last dance)\computer graphics\priya_cg_updated_p\cg_project - copy\cg_project\globals.h
+	"structures.h"
+	"constants.h"
+
+1775884448 e:\spring-26 (the last dance)\computer graphics\priya_cg_updated_p\cg_project - copy\cg_project\structures.h
+
+1775884448 e:\spring-26 (the last dance)\computer graphics\priya_cg_updated_p\cg_project - copy\cg_project\graphics.h
+
+1775884448 e:\spring-26 (the last dance)\computer graphics\priya_cg_updated_p\cg_project - copy\cg_project\physics.h
+
+1775901999 source:e:\spring-26 (the last dance)\computer graphics\priya_cg_updated_p\cg_project - copy\cg_project\main.c
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"constants.h"
+	"structures.h"
+	"globals.h"
+	"graphics.h"
+	"physics.h"
+	"weather.h"
+	"game.h"
+	<windows.h>
+	<mmsystem.h>
+
+1775884448 e:\spring-26 (the last dance)\computer graphics\priya_cg_updated_p\cg_project - copy\cg_project\weather.h
+
+1775884448 e:\spring-26 (the last dance)\computer graphics\priya_cg_updated_p\cg_project - copy\cg_project\game.h
+
+1775905227 source:e:\spring-26 (the last dance)\computer graphics\priya_cg_updated_p\cg_project - copy\cg_project\physics.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"physics.h"
+	"globals.h"
+	"graphics.h"
+	<windows.h>
+
+1775884448 source:e:\spring-26 (the last dance)\computer graphics\priya_cg_updated_p\cg_project - copy\cg_project\weather.c
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	"constants.h"
+	"structures.h"
+	"globals.h"
+	"weather.h"
+
+1776292796 source:f:\cg_delulu_project\cg_delulu_project\cg_project - copy\cg_project\graphics.c
+	<GL/glut.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	"constants.h"
+	"globals.h"
+	"structures.h"
+	"graphics.h"
+	"physics.h"
+
+1776275183 f:\cg_delulu_project\cg_delulu_project\cg_project - copy\cg_project\constants.h
+
+1776285937 f:\cg_delulu_project\cg_delulu_project\cg_project - copy\cg_project\globals.h
+	"structures.h"
+	"constants.h"
+
+1776275183 f:\cg_delulu_project\cg_delulu_project\cg_project - copy\cg_project\structures.h
+
+1776282461 f:\cg_delulu_project\cg_delulu_project\cg_project - copy\cg_project\graphics.h
+
+1776275183 f:\cg_delulu_project\cg_delulu_project\cg_project - copy\cg_project\physics.h
+
+1776288039 source:f:\cg_delulu_project\cg_delulu_project\cg_project - copy\cg_project\main.c
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"constants.h"
+	"structures.h"
+	"globals.h"
+	"graphics.h"
+	"physics.h"
+	"weather.h"
+	"game.h"
+	<windows.h>
+	<mmsystem.h>
+
+1776286802 f:\cg_delulu_project\cg_delulu_project\cg_project - copy\cg_project\weather.h
+
+1776275183 f:\cg_delulu_project\cg_delulu_project\cg_project - copy\cg_project\game.h
+
+1776292606 source:f:\cg_delulu_project\cg_delulu_project\cg_project - copy\cg_project\physics.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"physics.h"
+	"globals.h"
+	"graphics.h"
+	<windows.h>
+
+1776286802 source:f:\cg_delulu_project\cg_delulu_project\cg_project - copy\cg_project\weather.c
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	"constants.h"
+	"structures.h"
+	"globals.h"
+	"weather.h"
+	<windows.h>
+	<mmsystem.h>
+
+1776427316 source:d:\shornu\cg_project\graphics.c
+	<GL/glut.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	"constants.h"
+	"globals.h"
+	"structures.h"
+	"graphics.h"
+	"physics.h"
+
+1776380468 d:\shornu\cg_project\constants.h
+
+1776380478 d:\shornu\cg_project\globals.h
+	"structures.h"
+	"constants.h"
+
+1776379086 d:\shornu\cg_project\structures.h
+
+1776380734 d:\shornu\cg_project\graphics.h
+
+1776379076 d:\shornu\cg_project\physics.h
+
+1776427558 source:d:\shornu\cg_project\main.c
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"constants.h"
+	"structures.h"
+	"globals.h"
+	"graphics.h"
+	"physics.h"
+	"weather.h"
+	"game.h"
+	<windows.h>
+	<mmsystem.h>
+
+1776379106 d:\shornu\cg_project\weather.h
+
+1776380486 d:\shornu\cg_project\game.h
+
+1776427246 source:d:\shornu\cg_project\physics.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"physics.h"
+	"globals.h"
+	"graphics.h"
+	<windows.h>
+
+1776426288 source:d:\shornu\cg_project\weather.c
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	"constants.h"
+	"structures.h"
+	"globals.h"
+	"weather.h"
+	<windows.h>
+	<mmsystem.h>
+
+1776493019 source:c:\spring 2026\computer graphics\cg_project (2)\graphics.c
+	<GL/glut.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	"constants.h"
+	"globals.h"
+	"structures.h"
+	"graphics.h"
+	"physics.h"
+
+1776434584 c:\spring 2026\computer graphics\cg_project (2)\constants.h
+
+1776434584 c:\spring 2026\computer graphics\cg_project (2)\globals.h
+	"structures.h"
+	"constants.h"
+
+1776434585 c:\spring 2026\computer graphics\cg_project (2)\structures.h
+
+1776434584 c:\spring 2026\computer graphics\cg_project (2)\graphics.h
+
+1776434585 c:\spring 2026\computer graphics\cg_project (2)\physics.h
+
+1776458311 source:c:\spring 2026\computer graphics\cg_project (2)\main.c
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"constants.h"
+	"structures.h"
+	"globals.h"
+	"graphics.h"
+	"physics.h"
+	"weather.h"
+	"game.h"
+	<windows.h>
+	<mmsystem.h>
+
+1776434585 c:\spring 2026\computer graphics\cg_project (2)\weather.h
+
+1776434584 c:\spring 2026\computer graphics\cg_project (2)\game.h
+
+1776434585 source:c:\spring 2026\computer graphics\cg_project (2)\physics.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"physics.h"
+	"globals.h"
+	"graphics.h"
+	<windows.h>
+
+1776434585 source:c:\spring 2026\computer graphics\cg_project (2)\weather.c
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	"constants.h"
+	"structures.h"
+	"globals.h"
+	"weather.h"
+	<windows.h>
+	<mmsystem.h>
+

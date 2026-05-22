@@ -20,7 +20,7 @@ Animated birds flying across the sky to create a lively environment.
 
 🌧️ Rain in Daytime
 Real-time rain effect during daytime gameplay.
-![image alt]()
+![image alt](https://github.com/shornasarker/Sisyphus-Struggle-An-Interactive-Game-Simulation-/blob/main/Rain%20in%20Daytime.png?raw=true)
 
 🌙 Night Mode
 Dynamic nighttime environment with moonlight and stars.

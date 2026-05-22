@@ -29,7 +29,7 @@ Dynamic nighttime environment with moonlight and stars.
 
 🌧️ Rain in Nighttime
 Rain effect combined with night lighting and atmosphere.
-![image alt]()
+![image alt](https://github.com/shornasarker/Sisyphus-Struggle-An-Interactive-Game-Simulation-/blob/main/Rain%20in%20Nightime.png?raw=true)
 
 
 🏔️ Summit Scene

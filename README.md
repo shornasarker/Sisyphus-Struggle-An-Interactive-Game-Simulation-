@@ -24,7 +24,7 @@ Real-time rain effect during daytime gameplay.
 
 🌙 Night Mode
 Dynamic nighttime environment with moonlight and stars.
-![image alt]()
+![image alt](https://github.com/shornasarker/Sisyphus-Struggle-An-Interactive-Game-Simulation-/blob/main/Night.png?raw=true)
 
 
 🌧️ Rain in Nighttime

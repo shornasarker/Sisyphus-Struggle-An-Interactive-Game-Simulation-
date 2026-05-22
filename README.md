@@ -8,9 +8,12 @@ The initial gameplay scene where the player begins the journey.
 
 
 
+
 ☀️ Sunlight Changes
 Demonstrates dynamic sunlight and day–night transitions.
 ![image alt](https://github.com/shornasarker/Sisyphus-Struggle-An-Interactive-Game-Simulation-/blob/main/Sunlight%20Changes.png?raw=true)
+
+
 
 
 
@@ -18,13 +21,23 @@ Demonstrates dynamic sunlight and day–night transitions.
 Animated birds flying across the sky to create a lively environment.
 ![image alt](https://github.com/shornasarker/Sisyphus-Struggle-An-Interactive-Game-Simulation-/blob/main/Birds.png?raw=true)
 
+
+
+
+
 🌧️ Rain in Daytime
 Real-time rain effect during daytime gameplay.
 ![image alt](https://github.com/shornasarker/Sisyphus-Struggle-An-Interactive-Game-Simulation-/blob/main/Rain%20in%20Daytime.png?raw=true)
 
+
+
+
 🌙 Night Mode
 Dynamic nighttime environment with moonlight and stars.
 ![image alt](https://github.com/shornasarker/Sisyphus-Struggle-An-Interactive-Game-Simulation-/blob/main/Night.png?raw=true)
+
+
+
 
 
 🌧️ Rain in Nighttime
@@ -32,14 +45,24 @@ Rain effect combined with night lighting and atmosphere.
 ![image alt](https://github.com/shornasarker/Sisyphus-Struggle-An-Interactive-Game-Simulation-/blob/main/Rain%20in%20Nightime.png?raw=true)
 
 
+
+
+
 🏔️ Summit Scene
 The successful completion point at the mountain summit.
 ![image alt](https://github.com/shornasarker/Sisyphus-Struggle-An-Interactive-Game-Simulation-/blob/main/Summit.png?raw=true)
 
 
+
+
+
 ❌ Game Over Screen
 Displayed when the player loses all lives.
-![image alt]()
+![image alt](https://github.com/shornasarker/Sisyphus-Struggle-An-Interactive-Game-Simulation-/blob/main/Game%20Over.png?raw=true)
+
+
+
+
 
 🏁 End Point
 The final destination where the player completes the level.
